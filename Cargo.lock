@@ -1,5 +1,5 @@
 [root]
-name = "webtest"
+name = "Rusty Barnacle"
 version = "0.1.0"
 dependencies = [
  "diesel 0.14.1 (registry+https://github.com/rust-lang/crates.io-index)",
